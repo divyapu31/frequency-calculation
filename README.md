@@ -1,4 +1,4 @@
-# frequency-calculation
+# frequency-calculation and description of the graphs
 Find the resonant frequencies for lower and upper frequency bands.
 Design a full mode cavity, and divide in four Quarter-mode cavities along two magnetic walls to design dual frequency band MIMO antenna. The lower frequency 5 GHz and upper operating frequency 5.8 GHz can be calulated with PYTHON codes "S-parameters calculation.py".
 CST Micorowave Studio solver is used for optimization and analysis. 
